@@ -4,11 +4,8 @@ import Lerret from '@/components/Lerret';
 const App : React.FC = () => {
 
   return (
-    <div className="bg-yellow-300">
-      sdfsdf
-      <div>
+    <div>
         <Lerret/>
-      </div>
     </div>
   );
 }
